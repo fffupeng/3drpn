@@ -1,0 +1,10 @@
+1. download git.exe and install.
+2. create fold and cd into it.
+3. use git command, set git user.name and user.email.
+4. git init.
+5. git add file and git commit -m 'log',git push 
+
+7. install ssh and copy it to github ssh list.
+8. git remote add origin https://github.com/fffupeng/3rpn.git
+9. git push -u origin master
+10. git clone git@github.com:michaelliao/gitskills.git
